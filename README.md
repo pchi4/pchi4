@@ -12,13 +12,13 @@
   <img align="center" alt="Bootstrap" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
   <img align="center" alt="Meteor.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg"/>
   <img align="center" alt="Node.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img  align="center" alt="React" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img  align="center" alt="Vue.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img  align="center" alt="Nest.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
-  <img  align="center" alt="Docker" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img  align="center" alt="Git" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img  align="center" alt="Github" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img  align="center" alt="Gitlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+  <img align="center" alt="React" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Vue.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Nest.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+  <img align="center" alt="Docker" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Git" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Github" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="center" alt="Gitlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
   <link align="center" alt="Javascript" height="40" width="80"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div><br> <br>
  
