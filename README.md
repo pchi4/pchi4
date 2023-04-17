@@ -20,14 +20,13 @@
   <img align="center" alt="Git" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Github" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" alt="Gitlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-  <link align="center" alt="Javascript" height="40" width="80"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</div><br> <br>
- 
-<div style="padding: 50px; margin: 0 auto;"> 
-  <h2>Contatos</h2>
+  <link align="center" alt="Javascript" height="40" width="80"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">  <h2>Contatos</h2>
   <a align="center" href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a align="center" style="background-color: orange;" href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/douglas-lopes-336614208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  </div><br> <br>
  
+<div style="margin: 0 auto;"> 
+
 </div>
