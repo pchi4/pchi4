@@ -35,29 +35,10 @@ Minha atuação combina **engenharia de software**, **arquitetura de sistemas** 
 
 ---
 
-## 🧠 Experiência Profissional
-
-### 🏛️ Secretaria da Segurança Pública da Bahia — SSP-BA  
-**Desenvolvedor Mobile Líder**  
-📅 *2021 — atual*
-
-- Liderança técnica no desenvolvimento de aplicativos e sistemas operacionais voltados à **gestão policial e combate ao crime**.  
-- Participação em projetos de **integração entre sistemas legados e novas APIs**, promovendo interoperabilidade e consistência de dados.  
-- Colaboração no desenho de **arquiteturas escaláveis e seguras**, garantindo estabilidade e performance em ambientes de alta demanda.
-  
----
-
 ## 🎯 Visão Profissional
 
 Minha visão é continuar evoluindo como **engenheiro de software e arquiteto de sistemas**, explorando soluções inovadoras que unam **tecnologia, dados e segurança pública**.  
 Tenho interesse especial em pesquisa aplicada à **engenharia de software**, com ênfase em **arquitetura escalável e sistemas distribuídos**.
-
----
-
-## 🧾 Formação Acadêmica
-
-🎓 **Análise e Desenvolvimento de Sistemas** — UNICID  
-📍 *Universidade da Cidade de São Paulo*  
 
 ---
 
