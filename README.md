@@ -1,10 +1,10 @@
 # 👨‍💻 Douglas Lopes
 
 Sou **Engenheiro de Software** com formação em **Análise e Desenvolvimento de Sistemas pela UNICID (Universidade da Cidade de São Paulo)**.  
-Desde 2021, atuo na **Secretaria da Segurança Pública da Bahia (SSP-BA)**, onde iniciei minha trajetória como estagiário e, com o tempo, conquistei a posição de **Desenvolvedor Mobile Líder**.
+Desde 2021, atuo na **Secretaria da Segurança Pública da Bahia (SSP-BA)**, onde ajudo a transformar dados e processos complexos em sistemas que realmente fazem diferença na vida das pessoas.
 
-Meu trabalho é voltado à criação de soluções tecnológicas **robustas, seguras e escaláveis**, com impacto direto em **operações de segurança pública e gestão de dados estratégicos**.  
-Acredito que a tecnologia, quando aplicada com propósito, é capaz de **transformar processos complexos em sistemas inteligentes e eficientes**.
+Tenho paixão por criar soluções tecnológicas **robustas, seguras e escaláveis**, com foco em **impacto social e eficiência operacional**.  
+Acredito que engenharia de software é mais do que código — é sobre **resolver problemas reais com clareza e propósito**.
 
 ---
 
@@ -13,18 +13,15 @@ Acredito que a tecnologia, quando aplicada com propósito, é capaz de **transfo
 Minha atuação combina **engenharia de software**, **arquitetura de sistemas** e **desenvolvimento mobile**, com foco em performance, segurança e escalabilidade.
 
 **💡 Stack Principal**
-- React • React Native • Vue.js  
-- JavaScript • TypeScript  
-- Firebase • Redis  
-- Figma (prototipação e UI/UX)  
-
-**🧩 Outras Tecnologias**
 - Flutter • Dart  
+- React • React Native • Next.js  
 - Node.js • NestJS  
-- PostgreSQL  
-- Docker  
-- RESTful APIs  
-- Git & GitHub Actions
+- PostgreSQL • Firebase • Redis  
+
+**🧩 Outras Tecnologias e Ferramentas**
+- Vue.js • Swift (em aprendizado)  
+- Docker • GitHub Actions • RESTful APIs  
+- Figma (prototipação e UI/UX)
 
 **📚 Metodologias e Práticas**
 - Clean Architecture • SOLID  
@@ -51,9 +48,15 @@ Tenho interesse especial em pesquisa aplicada à **engenharia de software**, com
 
 ## 🌐 Conecte-se Comigo
 
-📧 **pchialoopes@gmail.com**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/douglas-loopes/)  
-🐙 [**GitHub**](https://github.com/pchi4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglas-loopes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pchi4">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
