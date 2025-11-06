@@ -1,7 +1,7 @@
 # 👨‍💻 Douglas Lopes
 
 Sou **Engenheiro de Software** com formação em **Análise e Desenvolvimento de Sistemas pela UNICID (Universidade da Cidade de São Paulo)**.  
-Desde 2021, atuo na **Secretaria da Segurança Pública da Bahia (SSP-BA)**, onde ajudo a transformar dados e processos complexos em sistemas que realmente fazem diferença na vida das pessoas.
+Ajudo a transformar dados e processos complexos em sistemas que realmente fazem diferença na vida das pessoas.
 
 Tenho paixão por criar soluções tecnológicas **robustas, seguras e escaláveis**, com foco em **impacto social e eficiência operacional**.  
 Acredito que engenharia de software é mais do que código — é sobre **resolver problemas reais com clareza e propósito**.
