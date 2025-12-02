@@ -34,7 +34,7 @@ Minha atuação combina **engenharia de software**, **arquitetura de sistemas** 
 
 ## 🎯 Visão Profissional
 
-Minha visão é continuar evoluindo como **engenheiro de software e arquiteto de sistemas**, explorando soluções inovadoras que unam **tecnologia, dados e segurança pública**.  
+Minha visão é continuar evoluindo como **engenheiro de software e arquiteto de sistemas**, explorando soluções inovadoras que unam **tecnologia, dados**.  
 Tenho interesse especial em pesquisa aplicada à **engenharia de software**, com ênfase em **arquitetura escalável e sistemas distribuídos**.
 
 ---
